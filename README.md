@@ -1,6 +1,6 @@
 # ECF common indicator success rates
 
-In this project, I analyzed the success of projects funded by the European Social Fund (ESF) and the Youth Employment Initiative (YEI) based on common indicators such as year, priority, and department. I used Python and Power BI to perform data transformation and visualization. The data source was transformed using Power Query.
+In this project, I analysed the success of projects funded by the European Social Fund (ESF) and the Youth Employment Initiative (YEI) based on common indicators such as year, priority, and department. I used Python and Power BI to perform data transformation and visualisation. The data source was transformed using Power Query.
 
 ## Key findings:
 Some of the key findings from my analysis are:
