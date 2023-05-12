@@ -1,4 +1,4 @@
-# ECF common indicator success rates
+# European Social Fund common indicator success rates
 
 In this project, I analysed the success of projects funded by  European Social Fund (ESF) and the Youth Employment Initiative (YEI), which I have obtained from their generous database. I have a noble quest: to analyze the projects and investments of the ESF and the YEI, and to reveal their patterns, trends, and impacts. I do not want to merely show numbers and tables; I want to tell a story that will enlighten and inspire my audience. And so I explore the data with my faithful companion, a Power BI dashboard, and I report my findings in a clear and engaging manner.
 
