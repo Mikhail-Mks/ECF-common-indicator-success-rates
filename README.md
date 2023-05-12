@@ -27,6 +27,9 @@ Additionally, I performed a deeper analysis on four specific indicators: investm
 
 You can find more details about my analysis and the code I used in this repository.
 
+### Visuals of the data were created in Power BI and available on the link below:   
+https://www.novypro.com/project/european-social-fund-success-rate-analysis
+
 ### Data source:   
 https://data.europa.eu/data/datasets/6dsf-6m94?locale=en
 ### Description:   
